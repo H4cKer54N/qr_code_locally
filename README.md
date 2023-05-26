@@ -23,7 +23,7 @@ pip install qrcode pillow
 ## Usage
 Run the script in your terminal and follow the interactive prompts:
 ~~~
-python qr_generator.py
+python3 qrCode.py
 ~~~
 
 You'll first be asked to select the type of QR code you wish to generate. Depending on the type you select, you'll be asked to enter the necessary data. For instance, if you select 'vCard', you'll be asked to enter the name, full name, URL, email, phone number, and address. If you select 'Website URL', you'll only need to enter the URL, and so on.
